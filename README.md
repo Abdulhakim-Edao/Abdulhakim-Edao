@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulhakim-Edao
+- 👋 Hi, I’m @Abdulhakim_Edao
 - 👀 I’m interested in software Engineering
 - 🌱 I’m currently learning computer science masters degree.
 - 💞️ I’m looking to collaborate on any project that is related to computer science.
